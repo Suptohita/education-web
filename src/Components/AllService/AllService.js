@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Card, CardGroup } from 'react-bootstrap';
+import Footer from '../Home/Footer/Footer';
 import Header from '../Home/Header/Header';
 
 
@@ -33,6 +34,7 @@ const AllServices = () => {
                 </div>
                 )
         }
+        <Footer></Footer>
     </div>
     );
 };

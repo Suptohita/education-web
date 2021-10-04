@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Mr. Toivo",
+        "job": "web designer",
+        "image": "https://randomuser.me/api/portraits/men/91.jpg"
+    },
+    {
+        "title": "Mrs. Annette",
+        "job" : "designer",
+        "image": "https://randomuser.me/api/portraits/women/35.jpg"
+    },
+    {
+        "title": "MC Phillip",
+        "job": "Programmer",
+        "image": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    
+    {
+        "title": "Mr. Devon",
+        "job": "Programmer",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "title": "Alexandra Hill",
+        "job": "UI Designer",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+        "title": "Hiliri james",
+        "job": "Graphics Disigner",
+        "image": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "title": "Anderson",
+        "job": "Python Developer",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+        "title": "Jamison Neil",
+        "job": "Backend Developer",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "title": "Neil hol",
+        "job": "React Developer",
+        "image": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+        "title": "Clara Olivia",
+        "job": "UI Designer",
+        "image": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+        "title": "Trevor",
+        "job": "Python Developer",
+        "image": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+        "title": "Olivia",
+        "job": "Django Developer",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg"
+    }
+
+]

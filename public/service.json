@@ -21,6 +21,31 @@
         "price" : "15",
         "rating" : "4.2",
         "tecnology" : "SQL(DataBase)"
+    },
+
+    {
+        "name" : "React",
+        "img" : "https://www.freecodecamp.org/news/content/images/2021/06/Ekran-Resmi-2019-11-18-18.08.13.png",
+        "price" : "25",
+        "rating" : "4.9",
+        "tecnology" : "JS, React"
+    },
+
+    {
+        "name" : "Computer visualization",
+        "img" : "https://5.imimg.com/data5/SELLER/Default/2021/2/FN/FH/KF/51396624/bundle-course-data-visualization-with-python-and-r-500x500.png",
+        "price" : "30",
+        "rating" : "3.5",
+        "tecnology" : "Python, R"
+    },
+    
+
+    {
+        "name" : "C++ For Beginners",
+        "img" : "https://engineering.fb.com/wp-content/uploads/2015/06/1522635669452_11.jpg",
+        "price" : "18",
+        "rating" : "4.1",
+        "tecnology" : "C++"
     }
 
 ]
