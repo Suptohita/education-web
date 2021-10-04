@@ -29,7 +29,7 @@ function App() {
             <AllService></AllService>
           </Route>
 
-          <Route path='teachers'>
+          <Route path='/teachers'>
             <Teachers></Teachers>
           </Route>
 

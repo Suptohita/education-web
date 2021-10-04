@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Basic Web development",
+        "img" : "http://www.web-development-institute.com/sites/default/files/styles/blogs_large_images/public/difference-between-html-css-and-javascript.png?itok=yPI_snpg",
+        "price" : "10",
+        "rating" : "4.1",
+        "tecnology" : "HTML, CSS, JS"
+    },
+    
+    {
+        "name" : "Python for Beginners",
+        "img" : "https://content.techgig.com/photo/80100245/8-steps-to-master-python-programming-for-data-science.jpg?88712",
+        "price" : "20",
+        "rating" : "4.8",
+        "tecnology" : "Python"
+    },
+
+    {
+        "name" : "Sql",
+        "img" : "https://lh3.googleusercontent.com/-v5LSZJbYI7E/YFdIchHdrnI/AAAAAAAAml0/hAwPRbMOpmEtd-0VA27zB4GS9O0a2kUzQCLcBGAsYHQ/image.png",
+        "price" : "15",
+        "rating" : "4.2",
+        "tecnology" : "SQL(DataBase)"
+    }
+
+]

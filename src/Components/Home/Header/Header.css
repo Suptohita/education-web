@@ -3,5 +3,16 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(160, 160, 160);
+    background-color: lightslategray;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.nav-item:hover{
+    text-decoration: none;
+    color: rgb(43, 46, 43);
+    text-decoration: underline 5px rgb(241, 239, 240);
 }

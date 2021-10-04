@@ -1,0 +1,22 @@
+.service{
+    align-items: center;
+    text-align: center;
+    display: inline-flex;
+    margin: 20px 15px ;
+    padding: 20px;
+    border: grey solid 3px;
+    border-radius: 15px;
+}
+
+.service img{
+    width: 400px;
+    border-radius: 15px;
+    height: 232px;
+    object-fit: cover;
+}
+
+.star{
+    background-color: rgb(91, 119, 161);
+    padding: 3px;
+    border-radius: 10px;
+}
