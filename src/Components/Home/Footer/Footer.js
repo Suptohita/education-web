@@ -5,6 +5,8 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div className='footer'>
+
+{/* company container */}
             <div>
                 <h4 className='mb-4'><u>Company</u></h4>
                 <h6>About Us</h6>
@@ -12,18 +14,26 @@ const Footer = () => {
                 <h6>Contact</h6>
             </div>
 
+{/* links container  */}
+
             <div>
                 <h4 className='mb-4'><u>Links</u></h4>
                 <h6>Courses</h6>
                 <h6>Events</h6>
                 <h6>Gallery</h6>
             </div>
+
+{/* supports container */}
+
             <div>
                 <h4 className='mb-4'><u>Supports</u></h4>
                 <h6>Forums</h6>
                 <h6>Language packs</h6>
                 <h6>Release Status</h6>
             </div>
+
+{/* apply for teacher */}
+
             <div>
                 <container>
                     <h4 className='mb-3'>Become a Teacher</h4>

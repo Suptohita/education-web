@@ -9,6 +9,9 @@ import NotFound from './Components/NotFound/NotFound';
 
 function App() {
   return (
+
+    // Route setup 
+
     <div className="App">
       <Router>
         <Switch>

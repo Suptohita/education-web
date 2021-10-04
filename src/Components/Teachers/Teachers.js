@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 import Footer from '../Home/Footer/Footer';
 import Header from '../Home/Header/Header';
 
+
+// get and set data from fakedb
+
 const Teachers = () => {
     const [teachers, setTeachers] = useState([])
     useEffect(() => {

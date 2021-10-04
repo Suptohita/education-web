@@ -4,6 +4,8 @@ import Footer from '../Home/Footer/Footer';
 import Header from '../Home/Header/Header';
 
 
+// get and set data from fakedb
+
 const AllServices = () => {
     const [services, setServices] =useState([])
     useEffect(()=>{
