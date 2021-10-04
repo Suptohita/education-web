@@ -25,7 +25,7 @@ function App() {
             <About></About>
           </Route>
 
-          <Route path='/service'>
+          <Route path='/services'>
             <AllService></AllService>
           </Route>
 
